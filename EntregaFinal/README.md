@@ -26,7 +26,9 @@ Diante dessa situação, a pergunta chave é se é possível prever se um client
 
 | Versão | Data       | Descrição                                 |
 |--------|------------|-------------------------------------------|
-| 1.0    | 2024-06-13 | Versão inicial do documento executivo     |
+| 1.0    | 2024-04-09 | Adicionada entrega 01 no repositório      |
+| 2.0    | 2024-04-23 | Adicionada entrega 03 no repositório      |
+| 3.0    | 2024-06-13 | Adicionada entrega final no repositório   |
 
 ## Objetivos do modelo
 
@@ -61,7 +63,7 @@ Para preparar o dataset final, foram realizadas as seguintes etapas:
 
 ## Resultados encontrados pela EDA
 
-Os resultados da Análise Exploratória dos Dados (EDA) estão descritos em uma apresentação. [Link para a apresentação]
+Os resultados da Análise Exploratória dos Dados (EDA) estão descritos em uma apresentação. [Link para a apresentação](https://docs.google.com/presentation/d/e/2PACX-1vQNt1RnUiJ4menCyF2dg0i-A4lBF8pZrx24fstYzNvrC7zd-QQCV-jYsc8xYKyOBibMhtSCZJv6uCuT/pub?start=false&loop=false&delayms=60000)
 
 ## Algoritmo Escolhido
 
