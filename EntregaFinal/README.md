@@ -2,6 +2,7 @@
 
 ## Tabela de Conteúdos
 
+0. [Autores](#autores)
 1. [Descrição do caso de negócio](#descrição-do-caso-de-negócio)
 2. [Tabela de versionamento](#tabela-de-versionamento)
 3. [Objetivos do modelo](#objetivos-do-modelo)
@@ -13,6 +14,16 @@
 9. [Métricas finais do Modelo Otimizado](#métricas-finais-do-modelo-otimizado)
 10. [Linhas de ações futuras](#linhas-de-ações-futuras)
 11. [Conclusões](#conclusões)
+
+## Autores
+**Marcos Angelo Cemim** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marcoscemim/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:mcemim@gmail.com)   
+  
+**Liliana Nicoleti** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](http://LinkedIn.com/in/LilianaNicoleti) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:lilianabnicoleti@gmail.com) 
+  
+**Pedro Guimarães** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/pedro-jansen-guimaraes/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:guimaraes.pedro1026@gmail.com) 
 
 ## Descrição do caso de negócio
 
