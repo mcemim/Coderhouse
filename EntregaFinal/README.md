@@ -24,6 +24,9 @@
   
 **Pedro Guimarães** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/pedro-jansen-guimaraes/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:guimaraes.pedro1026@gmail.com) 
+  
+**João Felipe Pavret Michels** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:pavret.michels@uel.br) 
 
 ## Descrição do caso de negócio
 
